@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.25)  2 MAY 2023 01:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.25)  2 MAY 2023 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1020,21 +1020,20 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-No file assignment1.aux.
+(./assignment1.aux)
 \openout1 = `assignment1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 100.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 100.
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 100.
 LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 100.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
 100.
-
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 100.
@@ -1161,6 +1160,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 100.
 LaTeX Info: Redefining \pageref on input line 100.
 LaTeX Info: Redefining \nameref on input line 100.
+
+(./assignment1.out) (./assignment1.out)
 \@outlinefile=\write4
 \openout4 = `assignment1.out'.
 
@@ -1204,19 +1205,13 @@ File: ts1txr.fd 2000/12/15 v3.1
 
 
 ] (./assignment1.aux)
-
-Package rerunfilecheck Warning: File `assignment1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `assignment1.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `assignment1.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29054 strings out of 478287
- 573653 string characters out of 5849289
- 838611 words of memory out of 5000000
+ 29060 strings out of 478287
+ 573749 string characters out of 5849289
+ 838833 words of memory out of 5000000
  46650 multiletter control sequences out of 15000+600000
  536714 words of font info for 167 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1227,7 +1222,7 @@ t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on assignment1.pdf (1 page, 43952 bytes).
+Output written on assignment1.pdf (1 page, 43832 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
